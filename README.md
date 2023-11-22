@@ -46,7 +46,7 @@ Utilize Tableau for creating visualizations.
 Communicate findings through charts, graphs, and dashboards.
 
 ## Business Question to Answer
-1.	Traffic volume throughout the year; ideally organized by year, month, week, day, and hour.
+1. Traffic volume throughout the year; ideally organized by year, month, week, day, and hour.
 
 2.Traffic volume in different weather conditions.
 	
