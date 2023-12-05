@@ -52,3 +52,5 @@ Communicate findings through charts, graphs, and dashboards.
 	
 3. Traffic volume on different holidays.
 
+![image](https://github.com/ZareClem/Minnesota_Interstate_Traffic_Volume_Dashboard/assets/138980152/1968f910-6656-4cbf-9b6a-537e920fb424)
+
