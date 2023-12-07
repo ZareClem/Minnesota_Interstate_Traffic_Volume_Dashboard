@@ -57,17 +57,22 @@ Communicate findings through charts, graphs, and dashboards.
 ### Traffic Volumes by month per year
 •	This line chart illustrates a comparison of traffic volumes between consecutive years for each month. The chart addresses the inquiry: Which month typically experiences the highest traffic volume? The Date Time dimension is employed with a filter set to display the Month timescale. Additionally, the chart aggregates the sum of traffic volume across each period, resulting in a consolidated total for each monthly interval. Each data point on the chart reflects the overall number of cars on the road throughout an entire month.
 •	The chart features three lines representing the years 2016, 2017, and 2018.
-You can interact live  with the chart in Tableau [Here]
+You can interact live  with the chart in Tableau [Here](https://public.tableau.com/app/profile/clement.zare/viz/Traffic_17004975313620/Trafficvolumesbymonthperyear)
+
 ![image](https://github.com/ZareClem/Minnesota_Interstate_Traffic_Volume_Dashboard/assets/138980152/afdc7954-fb72-4b1e-985e-c52251107109)
 
 ### Traffic volumes by hour
 •This heat map breaks down traffic concentration for each day and hour of each month. As you scroll through the visualization, the chart automatically updates to display each month’s data. This chart lets you compare each day and hour of traffic to the next, detailing traffic volume down to the hour. Columns in this heat map represent the day of the month and rows represent the time of day. Higher concentrations of traffic are represented by the color of each square in the heat map, with orange demonstrating a higher volume while the darker blue squares indicate less traffic.  
-•You can interact live with the Heat Map in Tableau [Here]
+
+•You can interact live with the Heat Map in Tableau [Here](https://public.tableau.com/app/profile/clement.zare/viz/MinnesotaTrafficVolumeDashboard_17004833764790/Trafficvolumesbyhour#3)
+
 ![image](https://github.com/ZareClem/Minnesota_Interstate_Traffic_Volume_Dashboard/assets/138980152/8bc8db13-8aa6-4caf-aa1d-476bafdfa02d)
 
 ### Traffic volumes by weather pattern
 •	This bar chart displays yearly traffic volume grouped by weather type. I included a date time filter that spans the years 2016 through 2018, I represented total traffic volume for those years and grouped it by weather type. For example, in those years, there were 24 million cars on the road during days with clear weather, while traffic volume decreased to 10 million during rainy weather. This also answers the  question about the effect that weather has on traffic.
-•You can interact live with the Bar Chart in Tableau [Here]
+
+•You can interact live with the Bar Chart in Tableau [Here](https://public.tableau.com/app/profile/clement.zare/viz/MinnesotaTrafficVolumeDashboard_17004833764790/Trafficvolumesbyweatherpattern#3)
+
 ![image](https://github.com/ZareClem/Minnesota_Interstate_Traffic_Volume_Dashboard/assets/138980152/e9079212-4c76-4867-8463-2f4abeafe409)
 
 ### Holidays with highest traffic
