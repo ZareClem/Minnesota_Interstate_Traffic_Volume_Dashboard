@@ -1,6 +1,6 @@
 # Minnesota_Interstate_Traffic_Volume_Dashboard
 # About Statement
-[Minnesota Traffic Volume Dashboard]
+1. [Summary](README.md#summary)
 The objective of this project is to develop an interactive data visualization dashboard to enhance an understanding of traffic patterns on the Minneapolis interstate. This project addresses the critical need to analyze and interpret traffic volume trends throughout the year, considering diverse time scales, weather conditions, and holidays. The goal is to provide actionable insights that will inform infrastructure decisions, ensuring the efficiency and safety of the interstate.
 
 The dashboard for this project has four charts and a legend. These charts include Traffic volumes by month per year, Traffic volumes by hour of the day, Traffic volumes organized by weather patterns, and a circle chart for Holidays with the highest traffic. Together, these charts address the stakeholders’ main interests: comparing the traffic volume at different points in time and at different timescales, and examining holiday and weather patterns throughout the year. 
