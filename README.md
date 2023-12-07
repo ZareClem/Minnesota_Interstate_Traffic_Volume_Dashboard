@@ -49,7 +49,7 @@ Communicate findings through charts, graphs, and dashboards.
 ## Business Question to Answer
 1. Traffic volume throughout the year; ideally organized by year, month, week, day, and hour.
 
-2.Traffic volume in different weather conditions.
+ 2.Traffic volume in different weather conditions.
 	
 3. Traffic volume on different holidays.
 
@@ -57,6 +57,7 @@ Communicate findings through charts, graphs, and dashboards.
 ### Traffic Volumes by month per year
 •	This line chart illustrates a comparison of traffic volumes between consecutive years for each month. The chart addresses the inquiry: Which month typically experiences the highest traffic volume? The Date Time dimension is employed with a filter set to display the Month timescale. Additionally, the chart aggregates the sum of traffic volume across each period, resulting in a consolidated total for each monthly interval. Each data point on the chart reflects the overall number of cars on the road throughout an entire month.
 •	The chart features three lines representing the years 2016, 2017, and 2018.
+
 You can interact live  with the chart in Tableau [Here](https://public.tableau.com/app/profile/clement.zare/viz/Traffic_17004975313620/Trafficvolumesbymonthperyear)
 
 ![image](https://github.com/ZareClem/Minnesota_Interstate_Traffic_Volume_Dashboard/assets/138980152/afdc7954-fb72-4b1e-985e-c52251107109)
