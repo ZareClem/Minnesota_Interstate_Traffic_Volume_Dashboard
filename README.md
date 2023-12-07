@@ -26,7 +26,7 @@ Provide a detailed examination of traffic volume trends throughout the year, org
 ## About Data
 The Minnesota Department of Transportation Data  has 9 Columns and 48205 Rows:
 
-![image](https://github.com/ZareClem/Minnesota_Interstate_Traffic_Volume_Dashboard/assets/138980152/c840cd4d-43e2-4fe1-bad7-5252899145f5)
+![image](https://github.com/ZareClem/Minnesota_Interstate_Traffic_Volume_Dashboard/assets/138980152/823fdb03-ca27-43c4-ba32-0619a6fcf6f7)
 
 ## Approach Used
 This approach ensures that the data is prepared for analysis by addressing missing values and understanding the dataset through exploratory data analysis. The final step involves the use of Tableau to visually communicate the insights and patterns discovered during the analysis.
